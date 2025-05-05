@@ -3,4 +3,10 @@
 Alexandre Pimentel - github.com/profxx
 <br>
 Marcela - github.com/MarcelaGoncalves20
-Leticia - github.com/Leci-cia
+<br>
+Júlia Gomes - github.com/Juliag0m3s
+
+
+<br>
+Thiago Joseph - github.com/Josephxxx
+
