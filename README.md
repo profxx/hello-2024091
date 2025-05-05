@@ -15,3 +15,5 @@ Thiago Joseph - github/Josephxxx
 Emerson - github.com/emersonalveszx
 <br>
 Rebeca - github.com/Rebeca Cruz
+<br>
+Guilherme - github.com/Guilherme976
