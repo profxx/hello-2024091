@@ -15,3 +15,5 @@ Thiago Joseph - github/Josephxxx
 Emerson - github.com/emersonalveszx
 <br>
 Rebeca - github.com/ricopipi
+<br>
+Fernando - github.com/Fernando1514
