@@ -53,3 +53,5 @@ Anna Beatriz - github.com/AnnaBCorrea
 Hillary - github.com/Larylira2009
 <br>
 João Gabriel - github.com/Biel-bit
+<br>
+Izac Ribeiro- github.com/SaSquachy
